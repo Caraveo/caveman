@@ -1767,7 +1767,7 @@ def register():
     bpy.types.Scene.hephaesto_last_screenshot = StringProperty(name="Last Scene Screenshot", subtype="FILE_PATH", options={"HIDDEN"})
     bpy.types.Scene.hephaesto_timelapse_start = IntProperty(name="Timelapse Start", options={"HIDDEN"})
     bpy.types.Scene.hephaesto_timelapse_end = IntProperty(name="Timelapse End", options={"HIDDEN"})
-    _log_info("Extension enabled: version=0.16.0 blender=%s", bpy.app.version_string)
+    _log_info("Extension enabled: version=0.17.0 blender=%s", bpy.app.version_string)
 
 
 def unregister():

@@ -6,7 +6,7 @@ CAVEMAN is a Blender 4.5 extension for quickly building editable mesh primitives
 
 1. In Blender, open **Edit → Preferences → Get Extensions**.
 2. Open the menu in the upper right and choose **Install from Disk**.
-3. Select `caveman-0.16.0.zip`, then enable CAVEMAN.
+3. Select `caveman-0.17.0.zip`, then enable CAVEMAN.
 4. In **Edit → Preferences → Add-ons → CAVEMAN**, enter your Claude API key and model ID. Blender online access must be enabled.
 
 ## Build a model
