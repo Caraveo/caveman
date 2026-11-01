@@ -2,6 +2,18 @@
 
 CAVEMAN is a Blender 4.5 extension for quickly building editable mesh primitives and models with Claude. It requires a Claude API key. Describe a model or attach a reference image, and CAVEMAN can create polygon-based shape guides, relief meshes, sculpt passes, paintable textures, Boolean joins and cuts, modifiers, and optional rigs.
 
+## Why CAVEMAN? 😂
+
+Starting from a blank scene can make even a simple model feel slow. CAVEMAN quickly lays out editable primitives and mesh parts, so you can get a useful blockout while working or learn Blender by reshaping the pieces yourself. Start with an idea, see it take form, then keep modeling.
+
+<table>
+  <tr>
+    <td align="center"><strong>Start with the idea</strong><br><img src="docs/images/caveman-concept.png" alt="Cheerful low-poly caveman concept" width="250"></td>
+    <td align="center"><h3>➡️ 😂 WHY?</h3><p>Quickly build the primitives for your model while you work or learn from scratch.</p></td>
+    <td align="center"><strong>Shape it in Blender</strong><br><img src="docs/images/caveman-blender-result.png" alt="Low-poly caveman assembled from editable Blender mesh parts with a rig" width="250"></td>
+  </tr>
+</table>
+
 ## Install
 
 1. In Blender, open **Edit → Preferences → Get Extensions**.
