@@ -29,6 +29,12 @@ The add-on uses the Claude Messages API and Blender's `bpy` API. It accepts boun
 
 The **CAVEMAN Model Builder** panel includes **View Recent Log** and **Open Full Log**. The log rotates at 2 MB and keeps three backups. It records operation stages, model ID, HTTP status and elapsed time, image metadata, validation results, mesh summaries, and errors. It does not record API keys, prompt text, or image contents. The full log is stored in Blender's extension user data under `logs/caveman.log`.
 
+## Farm example
+
+This low-poly farm scene shows how a prompt can be assembled from separate mesh forms: a red barn with a broad roof, a silo with a conical cap and trim, faceted trees, fence posts and rails, and a green ground plane. The parts stay independently editable, so you can adjust proportions, materials, and placement after generation.
+
+![Low-poly farm scene built from editable Blender mesh shapes](docs/images/farm-scene.png)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
