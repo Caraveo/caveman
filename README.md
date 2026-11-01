@@ -35,6 +35,12 @@ This low-poly farm scene shows how a prompt can be assembled from separate mesh 
 
 ![Low-poly farm scene built from editable Blender mesh shapes](docs/images/farm-scene.png)
 
+## Refinery Factory example
+
+This industrial scene is built from repeated and varied primitive forms: segmented processing towers, storage tanks, tall exhaust stacks, connecting pipes, small utility structures, and a shared platform. The modular meshes make it quick to block out a factory layout, then refine each vessel and connection independently.
+
+![Refinery factory scene made from modular Blender meshes](docs/images/refinery-factory.png)
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
