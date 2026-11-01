@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 id = "caveman"
-version = "0.17.0"
+version = "0.18.0"
 name = "CAVEMAN"
 tagline = "Quickly build Blender primitives with Claude"
 maintainer = "caraveo"

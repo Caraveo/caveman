@@ -1,6 +1,6 @@
 # CAVEMAN scene-description API
 
-The extension sends prompts to Claude, receives a small JSON scene description, validates each operation, and applies it through Blender's `bpy` API. Generated output never executes Python. Each operation is explicitly allowlisted and bounded.
+The extension sends prompts to Claude, receives a bounded JSON scene description with up to 100 objects, validates each operation, and applies it through Blender's `bpy` API. Generated output never executes Python. Each operation is explicitly allowlisted and bounded.
 
 ## Supported operations
 
