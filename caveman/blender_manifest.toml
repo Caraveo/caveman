@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "caveman"
+version = "0.16.0"
+name = "CAVEMAN"
+tagline = "Quickly build Blender primitives with Claude"
+maintainer = "caraveo"
+type = "add-on"
+tags = ["Add Mesh", "Modeling"]
+blender_version_min = "4.5.0"
+license = ["SPDX:MIT"]
+
+[permissions]
+network = "Send model prompts and shape-guide requests to the Claude API"
+files = "Read reference images; save generated shape guides and diagnostic logs"
