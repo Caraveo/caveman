@@ -1,5 +1,7 @@
 # CAVEMAN
 
+![CAVEMAN banner: Turn prompts into editable 3D models](docs/images/caveman-banner.png)
+
 CAVEMAN is a Blender 4.5 extension for quickly building editable mesh primitives and models with Claude. It requires a Claude API key. Describe a model or attach a reference image, and CAVEMAN can create polygon-based shape guides, relief meshes, sculpt passes, paintable textures, Boolean joins and cuts, modifiers, and optional rigs.
 
 ## Why CAVEMAN? 😂
